@@ -1,0 +1,13 @@
+{
+  "languages": {
+    "TypeScript": {
+      "language_servers": ["deno"]
+    },
+    "TSX": {
+      "language_servers": ["deno"]
+    },
+    "JavaScript": {
+      "language_servers": ["deno"]
+    }
+  }
+}
