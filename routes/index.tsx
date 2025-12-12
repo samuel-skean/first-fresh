@@ -14,7 +14,6 @@ export default define.page(function Home(_ctx) {
         <title>Fresh counter</title>
       </Head>
       <div class="max-w-screen-md mx-auto flex flex-col items-center justify-center">
-        lajsd;lfkjas;dlkjfa
         <img
           class="my-6"
           src="/logo.svg"
